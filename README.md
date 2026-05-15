@@ -32,6 +32,8 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+- name: "Projects"
+   link: "projects"
 ```
 
 * You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
